@@ -1,0 +1,6 @@
+danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,Streams
+1,0,-10,1,1,0,0,0,105,200000,400000
+0,0,-10,0,0,1,1,1,110,200000,2000
+0.75,0.75,-10,0.75,0.75,0.25,0.25,0.25,105,200000,300000
+0.25,0.25,-10,0.25,0.25,0.75,0.75,0.75,100,200000,50000
+
